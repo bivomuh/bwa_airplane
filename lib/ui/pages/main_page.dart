@@ -35,13 +35,10 @@ class MainPage extends StatelessWidget {
         alignment: Alignment.bottomCenter,
         child: Container(
           margin: EdgeInsets.only(
-              bottom: 30, left: defaultMargin, right: defaultMargin),
+              bottom: 20, left: defaultMargin, right: defaultMargin),
           width: double.infinity,
           height: 60,
           decoration: BoxDecoration(
-            // boxShadow: const [
-            //   BoxShadow(blurRadius: 0.1),
-            // ],
             boxShadow: [
               BoxShadow(
                 color: Colors.black.withOpacity(0.2),

@@ -57,7 +57,7 @@ class _HomePageState extends State<HomePage> {
                     decoration: const BoxDecoration(
                       shape: BoxShape.circle,
                       image: DecorationImage(
-                        image: AssetImage('assets/image_profile.png'),
+                        image: AssetImage('assets/image_bivo_profile.png'),
                       ),
                     ),
                   ),

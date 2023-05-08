@@ -6,11 +6,13 @@ class CustomButton extends StatelessWidget {
   final double width;
   final Function() onPressed;
   final EdgeInsets margin;
+  final double height;
 
   const CustomButton(
       {Key? key,
       required this.title,
       this.width = double.infinity,
+      this.height = 0,
       required this.onPressed,
       this.margin = EdgeInsets.zero})
       : super(key: key);
