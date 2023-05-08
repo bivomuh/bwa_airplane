@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413458175067",
+    "project_id": "airplane-496c0",
+    "storage_bucket": "airplane-496c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413458175067:android:380da95f9104b2cd5ddb7e",
+        "android_client_info": {
+          "package_name": "com.bivomuh.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413458175067-q11qbqlggrekn9a605qgdb5tju4mu8go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDruwEXX2FBFcKQlg0taLrAxuKhLw9J7M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413458175067-q11qbqlggrekn9a605qgdb5tju4mu8go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
