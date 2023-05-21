@@ -90,7 +90,7 @@ class SettingPage extends StatelessWidget {
                       mark: "saldo", detail: "Rp${state.user.balance}"),
                   MyProfileDetail(mark: "hobby", detail: state.user.hobby),
                   MyProfileDetail(
-                      mark: "tanggal bergabung", detail: "8 Mei 2025")
+                      mark: "tanggal bergabung", detail: "8 Mei 2024")
                   // Row(
                   //   children: [
                   //     Column(
