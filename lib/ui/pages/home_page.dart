@@ -6,6 +6,7 @@ import 'package:airplane/ui/widgets/destination_card.dart';
 import 'package:airplane/ui/widgets/destination_tile.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart%20';
+
 import '../../models/destination_model.dart';
 
 class HomePage extends StatefulWidget {
@@ -57,7 +58,7 @@ class _HomePageState extends State<HomePage> {
                     decoration: const BoxDecoration(
                       shape: BoxShape.circle,
                       image: DecorationImage(
-                        image: AssetImage('assets/image_bivo_profile.png'),
+                        image: AssetImage('assets/image_bivo_profile3.png'),
                       ),
                     ),
                   ),
